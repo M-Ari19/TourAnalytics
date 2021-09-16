@@ -53,7 +53,7 @@ HTMLText_DC319146_C473_208B_41B4_BDAD25BF866B_mobile.html = <div style="text-ali
 HTMLText_FA047A14_E98C_7D71_41EB_DE40452A46CB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;font-family:'Poppins';">Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.</SPAN></SPAN></DIV></div>
 HTMLText_FA047A14_E98C_7D71_41EB_DE40452A46CB_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;font-family:'Poppins';">Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.</SPAN></SPAN></DIV></div>
 HTMLText_FAB3A692_E98C_5571_41E4_0E706A9327BA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;font-family:'Poppins';">Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.</SPAN></SPAN></DIV></div>
-HTMLText_FAB3A692_E98C_5571_41E4_0E706A9327BA_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;font-family:'Poppins';">Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.</SPAN></SPAN></DIV></div>
+HTMLText_FAB3A692_E98C_5571_41E4_0E706A9327BA_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Poppins';">Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.</SPAN></SPAN></DIV></div>
 
 ### Label
 Label_EB913D29_E4D5_26C6_41CB_E6037AEFD401.text = Thawaf
@@ -105,10 +105,10 @@ panorama_73944C17_7D54_F666_41D0_0CA53F1B1096.label = 7
 panorama_739F25D9_7D55_51EA_41CC_DCF4A67AEF57.label = 8
 panorama_73F6F799_7D57_D26D_41D2_2862AD1EC7E4.label = 4
 panorama_A866366A_A4E4_7C06_41E0_5CA80440CA67.label = 1
+photo_E3C994E2_ED9F_8965_41DF_8796D41E9095.label = DESKTOP2A
+photo_E3C994E2_ED9F_8965_41DF_8796D41E9095.label = DESKTOP2A
 photo_F1EEA5C3_E3AD_BC53_41C0_EB7F776668AD.label = Januari
 photo_F1EEA5C3_E3AD_BC53_41C0_EB7F776668AD.label = Januari
-photo_FC5CB141_E984_2FD2_41E6_273C2BC89F76.label = DESKTOP2A
-photo_FC5CB141_E984_2FD2_41E6_273C2BC89F76.label = DESKTOP2A
 photo_FC5F593F_E984_3FAE_41C5_63AF994AD3B8.label = DESKTOP1
 photo_FC5F593F_E984_3FAE_41C5_63AF994AD3B8.label = DESKTOP1
 photo_FF9042D1_E984_72F2_41D3_D4A2789F3052.label = DESKTOP2B
