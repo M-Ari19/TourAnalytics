@@ -11,7 +11,7 @@ tour.name = Project: Manasik
 
 ### Button
 Button_7DBCA382_7065_343F_41DB_48D975E3D9EC.label = RUKUN IBADAH
-Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = PANORAMA LIST
+Button_7DBCA382_7065_343F_41DB_48D975E3D9EC_mobile.label = RUKUN IBADAH
 Button_9E60A789_BF74_CC54_4195_FDD694FEA581.label = Bedrooms
 Button_9E60A789_BF74_CC54_4195_FDD694FEA581.pressedLabel = Bedrooms
 Button_9E60A789_BF74_CC54_4195_FDD694FEA581_mobile.label = Bedrooms
@@ -26,34 +26,44 @@ Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2.label = Others
 Button_9E61D78D_BF74_CC6C_41CD_0C36B72D93B2_mobile.label = Others
 Button_9E674786_BF74_CC5C_41BB_6474239E3CB2.label = Thawaf
 Button_9E674786_BF74_CC5C_41BB_6474239E3CB2.pressedLabel = Thawaf
-Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.label = Reception
-Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.pressedLabel = Reception
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.label = Thawaf
+Button_9E674786_BF74_CC5C_41BB_6474239E3CB2_mobile.pressedLabel = Thawaf
 Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69.label = Referensi
-Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69_mobile.label = Rooms
+Button_9E67E788_BF74_CC54_41D0_56F2C1A46A69_mobile.label = Referensi
 Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC.label = BACK
 Button_F01877F7_C7BF_4BBD_41BB_741602CF73DC_mobile.label = BACK
 
 ### Dropdown
 DropDown_EDAD828C_E21D_8C55_41E0_4E573CD2709D.prompt = Januari
+DropDown_EDAD828C_E21D_8C55_41E0_4E573CD2709D_mobile.prompt = Januari
 
 ### Multiline Text
 HTMLText_7DB2E382_7065_343F_41C2_951F708170F1.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Montserrat';">COMPANY NAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">info@loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV></div>
-HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_7DB2E382_7065_343F_41C2_951F708170F1_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:7px;font-family:'Montserrat';">COMPANY NAME</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">www.loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">info@loremipsum.com</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:6px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-family:'Montserrat';">Tlf.: +11 111 111 111</SPAN></SPAN></DIV></div>
 HTMLText_930394B2_80D2_7B20_41DA_98B419365902.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:14px;font-family:'Poppins';">Tekan tombol berikut untuk melihat kembali infografis rukun ibadah</SPAN></SPAN></DIV></div>
-HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:6.5600000000000085vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
-HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 4.5px rgba(0,0,0,1);text-align:left;font-size:10.28vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:10.28vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
-HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6200000000000063vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
-HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.609999999999999vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:3.61vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_930394B2_80D2_7B20_41DA_98B419365902_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:7px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:7px;font-family:'Poppins';">Tekan tombol berikut untuk melihat kembali infografis rukun ibadah</SPAN></SPAN></DIV></div>
+HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:6.560000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_D9F0B796_C45D_64AB_41C2_9F9C8C6BB833_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 4.5px rgba(0,0,0,1);text-align:left;font-size:6.560000000000013vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:6.56vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6200000000000085vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DA3037D7_C45D_24A9_41C6_11069F8D7AF4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.6200000000000085vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.62vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
 HTMLText_DC317147_C473_2089_41E1_A2A60EF4B565.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 9px rgba(0,0,0,1);text-align:left;font-size:4.370000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.37vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_DC317147_C473_2089_41E1_A2A60EF4B565_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-shadow:0px 0px 4.5px rgba(0,0,0,1);text-align:left;font-size:4.370000000000002vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:4.37vmin;font-family:'Montserrat';">{{title}}</SPAN></SPAN></DIV></div>
 HTMLText_DC319146_C473_208B_41B4_BDAD25BF866B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.9700000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.97vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
+HTMLText_DC319146_C473_208B_41B4_BDAD25BF866B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:1.9700000000000015vmin;"><SPAN STYLE="display:inline-block; letter-spacing:0vmin; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:1.97vmin;font-family:'Montserrat Black';">{{subtitle}}</SPAN></SPAN></DIV></div>
 HTMLText_FA047A14_E98C_7D71_41EB_DE40452A46CB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;font-family:'Poppins';">Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.</SPAN></SPAN></DIV></div>
+HTMLText_FA047A14_E98C_7D71_41EB_DE40452A46CB_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;font-family:'Poppins';">Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.</SPAN></SPAN></DIV></div>
 HTMLText_FAB3A692_E98C_5571_41E4_0E706A9327BA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:21px;font-family:'Poppins';">Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.</SPAN></SPAN></DIV></div>
+HTMLText_FAB3A692_E98C_5571_41E4_0E706A9327BA_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10.5px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10.5px;font-family:'Poppins';">Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.</SPAN></SPAN></DIV></div>
 
 ### Label
 Label_EB913D29_E4D5_26C6_41CB_E6037AEFD401.text = Thawaf
+Label_EB913D29_E4D5_26C6_41CB_E6037AEFD401_mobile.text = Thawaf
 Label_F50E596C_E4DB_6A4D_41E6_A3568BB45807.text = Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.
+Label_F50E596C_E4DB_6A4D_41E6_A3568BB45807_mobile.text = Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.
 Label_F7B04978_E477_6A55_41B0_83793E5FC06A.text = Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.
+Label_F7B04978_E477_6A55_41B0_83793E5FC06A_mobile.text = Seraya memutari Ka’bah dari Hajar Aswad hingga Rukun Yamani, bacalah doa berikut ini sesuai putarannya.
 Label_F7BE4975_E477_6A5F_41EA_037BD781DA1C.text = Thawaf
+Label_F7BE4975_E477_6A5F_41EA_037BD781DA1C_mobile.text = Thawaf
 
 ## Media
 
@@ -116,6 +126,7 @@ htmlText_B557D524_A4FC_8276_41B7_88640231720D.html = <div style="text-align:left
 
 ### URL
 PopupWebFrameBehaviour_DC0FE408_CD71_F5D5_41D8_66E90E40FDEE.url = https://manasikvr.festivo.co/survey-iframe
+PopupWebFrameBehaviour_F7DE9EF6_EC49_559A_41ED_5D5656C4FEFF.url = https://manasikvr.festivo.co/survey-iframe
 
 ## E-Learning
 
