@@ -3,19 +3,19 @@
 ## Action
 
 ### URL
-PopupWebFrameBehaviour_FC48BD0B_EFD5_4F26_41CB_A8FB2613C578.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
-PopupWebFrameBehaviour_FCE96A3E_EFD6_D561_41E1_590DD3D48D45.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
-PopupWebFrameBehaviour_FC4D609C_EFD7_7521_41E7_58B166ECCA8A.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
-PopupWebFrameBehaviour_FC608E34_EFD7_4D61_41E5_85AC509A64A3.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
-PopupWebFrameBehaviour_FC5CD6E9_EFD7_7AE2_41E6_E6D8D064DB51.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
-PopupWebFrameBehaviour_FC256F90_EFD7_4B22_41E1_7AD7DDB96C06.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
 PopupWebFrameBehaviour_FA322BAB_EFD5_CB67_41DE_C25E79DFBB80.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
+PopupWebFrameBehaviour_FC48BD0B_EFD5_4F26_41CB_A8FB2613C578.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
 PopupWebFrameBehaviour_FCD0690E_EFD2_D73E_41E0_D545AD6F146A.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
+PopupWebFrameBehaviour_FC4D609C_EFD7_7521_41E7_58B166ECCA8A.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
+PopupWebFrameBehaviour_FC256F90_EFD7_4B22_41E1_7AD7DDB96C06.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
+PopupWebFrameBehaviour_FCE96A3E_EFD6_D561_41E1_590DD3D48D45.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
+PopupWebFrameBehaviour_FC5CD6E9_EFD7_7AE2_41E6_E6D8D064DB51.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
+PopupWebFrameBehaviour_FC608E34_EFD7_4D61_41E5_85AC509A64A3.url = https://dev.festivo.co/virtuallibrary/?mode=borrow
 PopupWebFrameBehaviour_E5E70C20_F6C8_3658_41D4_739AD81A40E8.url = https://dev.festivo.co/virtuallibrary/?mode=dropbox
 PopupWebFrameBehaviour_E1B019F3_F6C8_11BF_41D3_F1CF488F7183.url = https://dev.festivo.co/virtuallibrary/?mode=selfcheck
 PopupWebFrameBehaviour_E558B874_F6C8_1EB8_41D4_C5EA7D21BC41.url = https://dev.festivo.co/virtuallibrary/?mode=selfcheck
-WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
 
 ## Media
 
@@ -52,12 +52,12 @@ video_FAE3388B_EFD3_5526_41E6_72466C315F55.label = gagal pinjam
 video_FCCE1DEB_EFD3_4EE7_41D9_94AAD1D5156D.label = sukses pinjam
 
 ### Video
-videolevel_E81374B8_F2BB_5C7D_41EC_B7C5B65E4C04.url = media/video_58FFF579_48B2_C82C_41D1_A315B0C2A4E0_en.mp4
-videolevel_E81374B8_F2BB_5C7D_41EC_B7C5B65E4C04.posterURL = media/video_58FFF579_48B2_C82C_41D1_A315B0C2A4E0_poster_en.jpg
-videolevel_E815E464_F2BB_5C15_41E5_9E35766C023B.url = media/video_FAE3388B_EFD3_5526_41E6_72466C315F55_en.mp4
-videolevel_E815E464_F2BB_5C15_41E5_9E35766C023B.posterURL = media/video_FAE3388B_EFD3_5526_41E6_72466C315F55_poster_en.jpg
-videolevel_E814248A_F2BB_5C1D_41E7_0C061088BB87.url = media/video_FCCE1DEB_EFD3_4EE7_41D9_94AAD1D5156D_en.mp4
-videolevel_E814248A_F2BB_5C1D_41E7_0C061088BB87.posterURL = media/video_FCCE1DEB_EFD3_4EE7_41D9_94AAD1D5156D_poster_en.jpg
+videolevel_EC1E83D3_F28D_7432_41EC_600C7EEDC01F.url = media/video_58FFF579_48B2_C82C_41D1_A315B0C2A4E0_en.mp4
+videolevel_EC1E83D3_F28D_7432_41EC_600C7EEDC01F.posterURL = media/video_58FFF579_48B2_C82C_41D1_A315B0C2A4E0_poster_en.jpg
+videolevel_EC1C0347_F28D_7413_41E2_2E9CBAE1C360.url = media/video_FAE3388B_EFD3_5526_41E6_72466C315F55_en.mp4
+videolevel_EC1C0347_F28D_7413_41E2_2E9CBAE1C360.posterURL = media/video_FAE3388B_EFD3_5526_41E6_72466C315F55_poster_en.jpg
+videolevel_EC1D736F_F28D_7413_41EB_53BB7BBA91AF.url = media/video_FCCE1DEB_EFD3_4EE7_41D9_94AAD1D5156D_en.mp4
+videolevel_EC1D736F_F28D_7413_41EB_53BB7BBA91AF.posterURL = media/video_FCCE1DEB_EFD3_4EE7_41D9_94AAD1D5156D_poster_en.jpg
 
 ## Skin
 
